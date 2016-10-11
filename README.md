@@ -8,7 +8,7 @@ Andre Barbosa da Vitoria<br>
 Juliana Yuri kanezaki de Souza<br>
 
 ###2	INTRODUÇÃO E MOTIVAÇAO<br>
-Este documento contém a especificação do projeto do banco de dados CRIM-ES e motivação da escolha realizada. <br>
+Este documento contém a especificação do projeto do banco de dados Your Savior e motivação da escolha realizada. <br>
 
 ###3	MINI-MUNDO<br>
 A Secretaria de Segurança Pública do Estado do Espírito Santo deseja um sistema de informação para catalogar, classificar e apresentar as áreas de risco de assalto no estado do Espírito Santo. Esse sistema é alimentado através de um banco de dados gerado a partir dos boletins de ocorrência que a Secretaria de Segurança Pública disponibiliza em seu site. Boletins invalidados não deverão ser considerados, juntamente com quaisquer outros boletins que os incidentes iniciais não sejam roubos e furtos.<br>
@@ -19,11 +19,10 @@ Quando atualizado, o sistema irá gerar novos relatórios contabilizando os iten
 Sobre o administrador, deseja-se saber: o E-mail, Nome, ID da empresa e senha. O administrador poderá adicionar e remover outros administradores, adicionar e remover tabelas do banco de dados e gerar relatórios. <br>
 
 ###4	RASCUNHOS BÁSICOS DA INTERFACE (MOCKUPS)<br>
-neste ponto a codificação não e necessária, somente as ideias de telas devem ser criadas, o princípio aqui é pensar na criação da interface para identificar possíveis informações a serem armazenadas ou descartadas <br>
 
-Sugestão: https://balsamiq.com/products/mockups/<br>
+Link: https://drive.google.com/open?id=0B4qAOHMp3wcZUDY0alhuZEdFdWc/<br>
 
-![Alt text](https://github.com/discipbd1/trab01/blob/master/balsamiq.png?raw=true "Title")
+![Alt text](https://github.com/julianayuri/trab01/blob/master/Prototipo.jpeg?raw=true "Prototipo")
 
 
 ###5	MODELO CONCEITUAL<br>
@@ -33,8 +32,8 @@ Sugestão: https://balsamiq.com/products/mockups/<br>
     5.2 NOTACAO UML (Caso esteja fazendo a disciplina de analise)
 
 ####5.1 Validação do Modelo Conceitual
-    [Grupo01]: [Nomes dos que participaram na avaliação]
-    [Grupo02]: [Nomes dos que participaram na avaliação]
+    [Grupo01]: [Arthur Nicolau e Brendon Mauro]
+    [Grupo02]: [Edson Simões e Everson Delmaschio]
 
 ####5.2 DECISÕES DE PROJETO
     [atributo]: [descrição da decisão]
