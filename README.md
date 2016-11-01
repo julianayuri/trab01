@@ -1,6 +1,6 @@
 # TRABALHO 01
-Trabalho desenvolvido durante a disciplina de BD
-O trabalho esta sendo desenvolvido no link: https://github.com/AndyVitoria/trab01
+Trabalho desenvolvido durante a disciplina de BD<br>
+O trabalho esta sendo desenvolvido no link: https://github.com/AndyVitoria/trab01<br>
 
 #Sumário
 
@@ -33,8 +33,8 @@ Link: https://drive.google.com/open?id=0B4qAOHMp3wcZUDY0alhuZEdFdWc/<br>
     5.2 NOTACAO UML (Caso esteja fazendo a disciplina de analise)
 
 ####5.1 Validação do Modelo Conceitual
-    [Grupo01]: [Arthur Nicolau e Brendon Mauro]
-    [Grupo02]: [Edson Simões e Everson Delmaschio]
+    [Grupo01]: [Brendon Mauro]
+    [Grupo02]: [Everson Delmaschio]
 
 ####5.2 DECISÕES DE PROJETO
     [atributo]: [descrição da decisão]
